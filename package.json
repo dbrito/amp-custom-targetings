@@ -1,0 +1,27 @@
+{
+  "name": "amp-custom-targetings",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbrito/amp-custom-targetings.git"
+  },
+  "keywords": [
+    "amp",
+    "dfp-targetings",
+    "test"
+  ],
+  "author": "Douglas dos Santos Brito",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dbrito/amp-custom-targetings/issues"
+  },
+  "homepage": "https://github.com/dbrito/amp-custom-targetings#readme",
+  "devDependencies": {
+    "express": "^4.16.3"
+  }
+}
